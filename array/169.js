@@ -1,4 +1,4 @@
-// 169.  Majority Element
+// 169. Majority Element
 
 /**
  * @param {number[]} nums
